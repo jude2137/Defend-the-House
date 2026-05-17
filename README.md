@@ -1,8 +1,8 @@
-#Defend The House
+# Defend The House
 
 ![game image](defendthehouse/animation/image.png)
 
-##About
+## About
 
 This game is a recreation of an old flash game, Storm the House.
 
@@ -16,12 +16,12 @@ This project isn't licensed. All of the code is original.
 
 Credit to Ivory Drive for the background image.
 
-##Requirements
+## Requirements
 
 - Python 3.7 (later versions may not work)
 - Pyglet 1.5.1
 
-##Setup (Windows)
+## Setup (Windows)
 
 I made this project in 2020, and since the library I used isn't good at being compatible with previous versions of both python and itself, there are a few steps to get it running properly.
 
