@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Defend The House
 
 ![game image](defendthehouse/animation/image.png)
@@ -37,7 +36,3 @@ To get this one running properly,
 4. Then run `C:\Users\{your_name}\AppData\Local\Programs\Python\Python37\scripts\pip install pyglet==1.5.1`. This installs a very old version of pyglet, which is what the game uses to render all its stuff.
 
 5. Next, `cd` into where `main.py` for this game is and run `C:\Users\{your_name}\AppData\Local\Programs\Python\Python37\python main.py`.
-=======
-# Defend-the-House
-A recreation of the old flash game Storm the House using the Pyglet library in Python.
->>>>>>> 76f79481d99b90027b95986db7f2df28e125dea2
